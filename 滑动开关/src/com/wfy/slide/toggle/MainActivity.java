@@ -9,6 +9,7 @@ import com.wfy.slide.toggle.ToggleButtonView.ToggleState;
 
 public class MainActivity extends Activity {
 
+	//test
 	private ToggleButtonView toggleButton;
 
 	@Override
